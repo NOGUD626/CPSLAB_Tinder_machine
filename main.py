@@ -46,8 +46,8 @@ class TinderClass():
     # コンストラクタ
     def __init__(self):
         # ユーザー情報
-        self.user = "railgan.love@gmail.com"
-        self.password = "daiki1230"
+        self.user = ""
+        self.password = ""
         self.chrome = self.SettingChrome
         self.AddScreenflag = False
     
